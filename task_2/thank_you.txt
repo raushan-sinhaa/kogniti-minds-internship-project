@@ -1,0 +1,10 @@
+# Sample text for Thank you
+
+Subject: Thank You for Connecting!
+
+Hi {name},
+
+Thanks for engaging with us. We appreciate your time and look forward to serving you.
+
+Best,
+The Team

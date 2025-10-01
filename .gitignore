@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+ENV/
+
+# PyCharm IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Database files
+*.db
+*.sqlite3
+crm_lite.db
+
+# Generated reports and outputs
+*.xlsx
+*.pdf
+*.png
+*.jpg
+weekly_report*
+sales_report*
+monthly_trend.png
+top_customers.png
+leads_report*
+
+# Log files
+*.log
+email_log.txt
+
+# Temporary/generated CSV files
+clean_customers.csv
+sales_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Test files
+test_*
+temp_*

@@ -1,0 +1,10 @@
+#  Sample text for Welcome
+
+Subject: Welcome to Our Community!
+
+Hi {name},
+
+We're thrilled to have you on board. Stay tuned for updates and exclusive offers.
+
+Cheers,
+The Team

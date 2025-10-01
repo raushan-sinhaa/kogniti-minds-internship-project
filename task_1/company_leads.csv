@@ -1,0 +1,18 @@
+# here is company csv list listed
+" email,date,source,name
+john.doe@example.com,2025-09-28,LinkedIn,John Doe
+jane.smith@domain.com,2025-09-28,Website,Jane Smith
+invalid-email@,2025-09-28,Referral,Invalid User
+john.doe@example.com,2025-09-29,LinkedIn,John Doe
+alice.wonder@company.org,2025-09-29,Website,Alice Wonder
+email,date,source,name
+john.doe@example.com,2025-09-28,LinkedIn,John Doe
+jane.smith@domain.com,2025-09-28,Website,Jane Smith
+invalid-email@,2025-09-28,Referral,Invalid User
+john.doe@example.com,2025-09-29,LinkedIn,John Doe
+alice.wonder@company.org,2025-09-29,Website,Alice Wonder"
+john.doe@example.com
+jane.smith@domain.com
+invalid-email@
+john.doe@example.com
+alice.wonder@company.org
